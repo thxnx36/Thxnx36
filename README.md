@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Intern Student
 --------------
 
-* 🌍  I'm based in Chiang Mai, Thailand
+* 🌍  I'm based in Nonthaburi, Thailand
+* 📌  Now living in Chiang Mai, Thailand
 * 🖥️  See my portfolio at [My Port](http://github.com/thxnx36/Web-Portfolio)
 * ✉️  You can contact me at [Thxnx36@gmail.com](mailto:Thxnx36@gmail.com)
 
