@@ -24,5 +24,7 @@ Intern Student
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thxnx36&show_icons=true&theme=highcontrast)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thxnx36&hide_progress=true)
