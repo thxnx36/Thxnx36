@@ -25,4 +25,4 @@ Intern Student
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thxnx36)](https://github.com/thxnx36/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thxnx36&hide_progress=true)
