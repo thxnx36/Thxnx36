@@ -5,7 +5,7 @@ Intern Student
 --------------
 
 * 🌍  I'm based in Nonthaburi, Thailand
-* 📌  Now living in Chiang Mai, Thailand
+* 📌  Now living in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Port](http://github.com/thxnx36/Web-Portfolio)
 * ✉️  You can contact me at [Thxnx36@gmail.com](mailto:Thxnx36@gmail.com)
 
