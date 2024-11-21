@@ -6,7 +6,7 @@ Programmer + Freontend Developer
 
 * 🌍  I'm based in Nonthaburi, Thailand
 * 📌  Now living in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Port](https://thanyaret-web-port.web.app/)
+* 🖥️  See my portfolio at [My Port](https://thanyaret-web-port.web.app/) Haven't updated yet
 * ✉️  You can contact me at [Thxnx36@gmail.com](mailto:Thxnx36@gmail.com)
 
 ### Skills
