@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer + Freontend Developer
 --------------
 
-* 🌍  I'm based in Nonthaburi, Thailand
+* 🌍  I'm based in Bangkok, Thailand
 * 📌  Now living in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Port](https://thanyaret-web-port.web.app/) Haven't updated yet
 * ✉️  You can contact me at [Thanyaret.seangsrichan@gmail.com](mailto:Thanyaret.seangsrichan@gmail.com)
